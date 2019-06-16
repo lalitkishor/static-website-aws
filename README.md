@@ -8,3 +8,7 @@ screenshot :- ![upload file](https://raw.githubusercontent.com/lalitkishor/stati
 
 ### Configured to support static website hoting
 screenshot :- ![configuration](https://raw.githubusercontent.com/lalitkishor/static-website-aws/master/screenshot/Screen%20Shot%202019-06-16%20at%206.59.32%20AM.png)
+
+### Make bucket publicly accessbile
+screenshot :- ![publicly accessbile](https://raw.githubusercontent.com/lalitkishor/static-website-aws/master/screenshot/Screen%20Shot%202019-06-16%20at%207.00.15%20AM.png)
+
