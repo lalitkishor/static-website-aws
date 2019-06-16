@@ -12,3 +12,10 @@ screenshot :- ![configuration](https://raw.githubusercontent.com/lalitkishor/sta
 ### Make bucket publicly accessbile
 screenshot :- ![publicly accessbile](https://raw.githubusercontent.com/lalitkishor/static-website-aws/master/screenshot/Screen%20Shot%202019-06-16%20at%207.00.15%20AM.png)
 
+### Website is distributed via Cloudfront 
+screenshot :- ![cloudfonrt](https://raw.githubusercontent.com/lalitkishor/static-website-aws/master/screenshot/Screen%20Shot%202019-06-16%20at%207.02.00%20AM.png)
+
+### publicly accessible
+cloudFront endpoint :-  http://dryjj7t3vn7e4.cloudfront.net
+website url :- http://dryjj7t3vn7e4.cloudfront.net/index.html
+
